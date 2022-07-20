@@ -1,0 +1,1 @@
+# laravel_redis_postgresql_app
